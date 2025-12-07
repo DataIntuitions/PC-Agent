@@ -1,0 +1,24 @@
+[
+  {
+    "task": "Open PowerPoint and create a new presentation about \"Star Wars Saga Overview\".\nOn the first slide, add the title \"Star Wars: A Galaxy Far, Far Away\" and the subtitle \"The Epic Saga | 1977-2019\".\nFor the second slide, title it \"The Force\". Search for an image of \"Star Wars Lightsaber Duel\" on Chrome, copy the image, and paste it into the slide.\nOn the third slide, use the title \"Key Characters\" and include the following text: \"Follow the journey of Luke Skywalker, Darth Vader, Princess Leia and Rey as they shape the destiny of the galaxy.\"\nFor the fourth slide, title it \"Legacy\" and add: \"Star Wars revolutionized cinema with groundbreaking effects and created a cultural phenomenon that spans movies, games and books.\"\nOn the final slide, write \"May The Force Be With You\".\nSave the presentation to desktop, then close PowerPoint and Chrome.",
+    "level": "hard",
+    "file_input": false,
+    "category": "PowerPointTasks",
+    "finished": false
+  },
+  {
+    "task": "Open Chrome and navigate to the product page for the MacBook Air M3 on Amazon.",
+    "level": "medium",
+    "file_input": false,
+    "category": "ChromeTasks",
+    "finished": false
+  },
+  {
+    "task": "Create a new file named 'diary.txt' on the desktop.",
+    "level": "easy",
+    "file_input": false,
+    "category": "FileOperationTasks",
+    "finished": false
+  }
+]
+  
