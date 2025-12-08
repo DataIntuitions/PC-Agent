@@ -2,7 +2,7 @@
 
 <p align="center">
   📄 <a href="https://arxiv.org/abs/2412.17589" target="_blank">Paper</a> &nbsp; | &nbsp;
-  🌐 <a href="https://gair-nlp.github.io/PC-Agent" target="_blank">Website</a> &nbsp; | &nbsp;
+  🌐 <a href="https://github.com/DataIntuitions/PC-Agent" target="_blank">Website</a> &nbsp; | &nbsp;
   📘 <a href="https://mp.weixin.qq.com/s/2rAfmcRu7lPDg1uUv-qFCQ" target="_blank">机器之心</a>
 </p>
 
