@@ -39,7 +39,7 @@ To get started with PC Agent, we recommend setting up your Python environment us
 
 ```bash
 # Clone the repository and navigate to the folder
-git clone https://github.com/GAIR-NLP/PC-Agent.git
+git clone https://github.com/DataIntuitions/PC-Agent/
 cd PC-Agent
 # Create and activate conda environment
 conda env create -f environment.yml
